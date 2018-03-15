@@ -3,7 +3,7 @@
 ## Short Description of GVMagic Project##
 This is a collection of files and notebooks that explores the gvmagic capablities.
 
-Area with example code include:
+Areas with example code include:
 
 * nodes with images (only partially working, sadly)
 * layout options
