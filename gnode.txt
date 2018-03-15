@@ -1,0 +1,8 @@
+graph {
+    
+    server1 [image="server.png", label="", shape=box]
+    server2
+    
+    server1--server2
+    
+}
